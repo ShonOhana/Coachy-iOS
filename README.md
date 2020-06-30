@@ -20,7 +20,8 @@ The solution:
 
 I present a registration to the app to enable him to save the data in a firebase database.
 You can sign up through a Google, Facebook or individual registration page.
-https://github.com/ShonOhana/Coachy-iOS/issues/1#issue-648131150
+https://github.com/ShonOhana/Coachy-iOS/issues/1#issue-648131150 ,
+
 https://github.com/ShonOhana/Coachy-iOS/issues/2#issue-648139817
 
 As soon as the user enters / registers, they come to a main screen that shows categories of training.
